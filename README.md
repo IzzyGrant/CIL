@@ -1,2 +1,11 @@
 # CIL
-Repositorio del Curso intermedio de Linux.
+## Repositorio del Curso intermedio de Linux.
+### Horarios: 11am - 1pm
+### Lugar: Labpratorio A-723
+
+
+### Enlaces de Interes:
+
+#### Utileria
+
+[Editor de archivos Markdowd](https://stackedit.io/)
