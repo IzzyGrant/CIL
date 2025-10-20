@@ -1,7 +1,7 @@
 # CIL
 ## Repositorio del Curso intermedio de Linux.
 ### Horarios: 11am - 1pm
-### Lugar: Labpratorio A-723
+### Lugar: Laboratorio A-723
 
 
 ### Enlaces de Interes:
