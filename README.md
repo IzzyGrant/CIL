@@ -10,7 +10,8 @@
 
 ### Enlaces de Interes:
 
-#### Utileria
-
 [Editor de archivos Markdowd](https://stackedit.io/)
 
+[Opciones de Terminal Online](https://h4ckseed.wordpress.com/2022/01/19/practica-comandos-gnu-linux-con-terminales-online/)
+
+[Kali Linux](https://www.kali.org/)
