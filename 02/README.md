@@ -97,15 +97,19 @@ VALUES
   (4, 'Zapatillas', 'Zapatillas de running de color blanco y verde', 35, 13);
   ```
 ```mysql
-SELECT * FROM productos;
+SELECT * FROM Productos;
 ```
 
   Instalamos PHP
 
-  > **~$** sudo apt install php libapache2-mod-php php-mysql
+  > **~$** sudo apt install php libapache2-mod-php php-mysql php-mysqli
 
 Conector PHP-MySQL  
 y tabla combinada con html
+
+Verificamos con phpinfo.php:
+
+  > <?php phpinfo(); ?>
 
 ```mysql
 <?php
